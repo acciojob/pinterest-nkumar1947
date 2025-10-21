@@ -3,7 +3,7 @@ img{
 	width: 400px;
 height: 300px;
 	display:flex;
-object-fit: cover:
+object-fit: cover;
 }
 h1,p{
 	text-align:center
@@ -11,9 +11,11 @@ h1,p{
 }
 
 button{
-	margin-left:500px;
+	text-align:right;
+	border-radius:30px;
 	background-color:red;
 	color:white;
+	padding:10px;
 }
 
 
